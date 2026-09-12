@@ -31,7 +31,7 @@ Subscribe to the required mods and add them to your RimWorld mod list in the fol
 
 ### Manual Installation
 
-1. Download the latest release from the [**Releases**]((https://github.com/Keullaeseu/Multiplayer-Quarry-Adopted-Patch/releases/latest)) section.
+1. Download the latest release from the [**Releases**](https://github.com/Keullaeseu/Multiplayer-Quarry-Adopted-Patch/releases/latest) section.
 2. Extract the mod folder into your RimWorld `Mods` directory.
 3. Enable the required mods in RimWorld.
 4. Use the recommended load order listed above.
