@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Multiplayer Quarry [Adopted] Patch</name>
+	<author>Keullaeseu</author>
+	<packageId>keullaeseu.multiplayerquarryadoptedpatch</packageId>
+	<modVersion>1.0.0.0</modVersion>
+	<url>https://github.com/Keullaeseu/Multiplayer-Security-Doors-Expanded-Patch</url>
+	<description>Provides multiplayer support for the Quarry [Adopted] mod by Ogliss.</description>
+
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+
+	<loadAfter>
+		<li>rwmt.Multiplayer</li>
+		<li>Ogliss.TheWhiteCrayon.Quarry</li>
+	</loadAfter>
+
+	<modDependencies>
+		<li>
+			<packageId>rwmt.Multiplayer</packageId>
+			<displayName>Multiplayer</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2606448745</steamWorkshopUrl>
+			<downloadUrl>https://github.com/rwmt/Multiplayer/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>Ogliss.TheWhiteCrayon.Quarry</packageId>
+			<displayName>Quarry [Adopted]</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2007576583</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
