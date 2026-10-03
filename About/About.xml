@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>Multiplayer Quarry [Adopted] Patch</name>
 	<author>Keullaeseu</author>
-	<packageId>keullaeseu.multiplayerquarryadoptedpatch</packageId>
+	<packageId>keullaeseu.mp.Ogliss.TheWhiteCrayon.Quarry</packageId>
 	<modVersion>1.0.0.0</modVersion>
 	<url>https://github.com/Keullaeseu/Multiplayer-Quarry-Adopted-Patch</url>
 	<description>Provides multiplayer support for the Quarry [Adopted] mod by Ogliss.</description>
