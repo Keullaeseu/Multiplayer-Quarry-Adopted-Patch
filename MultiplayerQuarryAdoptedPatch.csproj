@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net48</TargetFramework>
-    <RootNamespace>Multiplayer_Quarry__Adopted__Patch</RootNamespace>
+    <RootNamespace>MultiplayerQuarryAdoptedPatch</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
 	<LangVersion>12</LangVersion>
 	<AssemblyVersion>1.0.0.1</AssemblyVersion>
